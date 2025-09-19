@@ -38,7 +38,7 @@ Con proximas funciones a integrar.
 - `Funcionalidad 8`: Reiniciar la lista completa de amigos y comenzar de cero.
 
 <h2> Acceso al proyecto </h2>
-Link deployed: 
+Link deployed: https://gnalas23.github.io/Desaf-o-Amigo-Secreto---Alura-Latam/
 
 <h2>Tecnologías utilizadas </h2>
 
