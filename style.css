@@ -90,6 +90,7 @@ body {
 .button-container {
     width: 300px;
     justify-content: center;
+    
 }
 
 /* Estilos de entrada de texto */
@@ -147,10 +148,13 @@ ul {
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 10px 40px;
+    padding: 10px 40px ;
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+   
+    
+    
 }
 
 .button-draw img {
@@ -159,4 +163,28 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+.button-draw-New {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 16px;
+    
+}
+
+.button-draw-New img {
+    margin-right: 40px;  
+}
+
+
+.button-draw-New:hover {
+    background-color: var(--color-button-hover);
+}
+
+.button-draw + .button-draw-New {
+    margin-top: 12px;  
 }
